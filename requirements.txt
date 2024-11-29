@@ -1,3 +1,8 @@
 streamlit
 pyaudio
 faster-whisper
+transformers
+fugashi
+torch
+numpy
+llama-cpp-python
